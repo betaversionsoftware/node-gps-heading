@@ -1,6 +1,6 @@
 {
   "name": "node-gps-heading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculates heading / bearing between two GPS locations along the great circle.",
   "main": "index.js",
   "scripts": {
