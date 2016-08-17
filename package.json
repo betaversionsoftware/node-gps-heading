@@ -16,7 +16,7 @@
   ],
   "author": "Maciej Radochonski",
   "license": "MIT",
-  "repository": "https://github.com/mradochonski/node-gps-heading",
+  "repository": "https://github.com/betaversionsoftware/node-gps-heading",
   "devDependencies": {
     "mocha": "^3.0.2",
     "assert": "^1.4.1"
