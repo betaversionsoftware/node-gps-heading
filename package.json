@@ -1,0 +1,24 @@
+{
+  "name": "node-gps-heading",
+  "version": "1.0.0",
+  "description": "Calculates heading / bearing between two GPS locations along the great circle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "geo",
+    "geo heading",
+    "geo bearing",
+    "gps",
+    "gps bearing",
+    "gps heading"
+  ],
+  "author": "Maciej Radochonski",
+  "license": "MIT",
+  "repository": "https://github.com/mradochonski/node-gps-heading",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "assert": "^1.4.1"
+  }
+}
