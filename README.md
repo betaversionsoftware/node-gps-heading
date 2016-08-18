@@ -1,6 +1,6 @@
 ## Calculates heading / bearing between two GPS locations along the great circle.
 
-![Build Status](https://travis-ci.org/betaversionsoftware/node-gps-heading.svg?branch=master)
+![Build Status](https://travis-ci.org/betaversionsoftware/node-gps-heading.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/betaversionsoftware/node-gps-heading/badge.svg)](https://coveralls.io/github/betaversionsoftware/node-gps-heading)
 ### Install
 
 ```js
