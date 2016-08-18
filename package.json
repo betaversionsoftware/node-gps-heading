@@ -20,7 +20,6 @@
   "devDependencies": {
     "assert": "^1.4.1",
     "coveralls": "^2.11.12",
-    "mocha": "^3.0.2",
-    "mocha-lcov-reporter": "^1.2.0"
+    "mocha": "^3.0.2"
   }
 }
