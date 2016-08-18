@@ -18,7 +18,9 @@
   "license": "MIT",
   "repository": "https://github.com/betaversionsoftware/node-gps-heading",
   "devDependencies": {
+    "assert": "^1.4.1",
+    "coveralls": "^2.11.12",
     "mocha": "^3.0.2",
-    "assert": "^1.4.1"
+    "mocha-lcov-reporter": "^1.2.0"
   }
 }
